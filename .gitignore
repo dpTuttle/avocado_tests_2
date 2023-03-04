@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Dash Stuff
+venv
+*.pyc
+.DS_Store
+.env
+
 # Distribution / packaging
 .Python
 build/
